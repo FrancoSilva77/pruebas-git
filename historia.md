@@ -1,6 +1,5 @@
 # Franco Silva López
 
-- Me llamo Franco Silva Lopez, tengo 23 años y estoy pensando en crear una agencia de software.
-Ahora solo queda conseguir clientes
+- Me llamo Franco Silva Lopez, tengo 23 años y estoy pensando en crear una consultoria de software.
 
-- Estamos en 2024, el mejor año
+- Mañana es un gran día
