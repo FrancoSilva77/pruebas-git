@@ -4,6 +4,8 @@
 
 - Experimento 1
 
+- Experimento 2
+
 - He elegido php como lenguaje para este proposito
 - Con css y js
 
